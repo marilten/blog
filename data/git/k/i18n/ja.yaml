@@ -10,7 +10,4 @@
     other: "{{ .Count }} 分"
 
 - id: toc
-  translation: "目次"
-
-- id: translations
-  translation: "言語"
+  translation: "もくじ"
