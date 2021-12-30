@@ -5,7 +5,6 @@ theme: "PaperMod"
 defaultContentLanguage: ja
 enableGitInfo: true
 ShowShareButtons: false     # True にすれば表示する
-disableJSON: true
 params:
     homeInfoParams:
         Title: Hi there wave
