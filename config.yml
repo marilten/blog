@@ -12,7 +12,7 @@ params:
         Content: Can be Info, links, about...
 
     socialIcons: # optional
-        - name: "twitter"
-            url: "https://twitter.com/osen74"
+        - name: "<twitter>"
+            url: "<https://twitter.com/osen74>"
         - name: "<platform 2>"
             url: "<link2>"
