@@ -1,8 +1,6 @@
 ---
-title: "1記事目だよ"
-date: 2021-12-30T13:08:05+09:00
-draft: false
+title: "My First Post"
+date: 2021-12-30T15:43:32+09:00
+draft: true
 ---
 
-初めての記事。
-日本語の表示がちゃんとしてるか心配！

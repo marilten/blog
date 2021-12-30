@@ -5,13 +5,3 @@ theme: "PaperMod"
 defaultContentLanguage: ja
 enableGitInfo: true
 ShowShareButtons: false     # True にすれば表示する
-params:
-    homeInfoParams:
-        Title: Hi there wave
-        Content: Can be Info, links, about...
-
-    socialIcons: # optional
-        - name: "<twitter>"
-            url: "<https://twitter.com/osen74>"
-        - name: "<platform 2>"
-            url: "<link2>"
