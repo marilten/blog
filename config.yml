@@ -2,5 +2,6 @@ baseURL: https://marilten.netlify.app/
 languageCode: en-us
 title: まりる展
 theme: "PaperMod"
-defaultContentLanguage: ja 
+defaultContentLanguage :ja
 enableGitInfo: true
+ShowShareButtons: false     # True にすれば表示する
